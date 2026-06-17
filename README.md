@@ -17,18 +17,23 @@ Building this program required bridging the gap between high-level abstractions 
 ## Execution Examples
 Below are visual demonstrations of the program's terminal interface and dynamic rendering capabilities.
 **Concentric Square** (Randomized Colour)
+
 <img width="576" height="1620" alt="image" src="https://github.com/user-attachments/assets/ce45ab76-b89c-47f5-bc5a-89539e33d41b" />
 
 **Hexagon** (Randomized Size)
+
 <img width="978" height="1508" alt="image" src="https://github.com/user-attachments/assets/1bd41b53-6cae-4ed3-821a-914d43001d90" />
 
 **Hourglass** (Randomized Location)
+
 <img width="918" height="1538" alt="image" src="https://github.com/user-attachments/assets/7b9c20db-23f2-4c96-b960-09ea93e026be" />
 
 **Diamond** (Randomized Character)
+
 <img width="960" height="1422" alt="image" src="https://github.com/user-attachments/assets/aa07c2e3-adf1-4bdd-94ec-e9ae2d5f676b" />
 
 **Heart** (Randomized Number of Shapes)
+
 <img width="914" height="1360" alt="image" src="https://github.com/user-attachments/assets/d7b224c4-a8a3-4965-bd49-0ec26749d710" />
 
 ## Usage
