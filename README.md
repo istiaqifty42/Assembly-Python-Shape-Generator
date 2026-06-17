@@ -10,10 +10,6 @@ Building this program required bridging the gap between high-level abstractions 
 * **Hardware-Level Randomization:** Utilizing CPU clock cycles (`rdtsc`) and modulo division to generate unpredictable parameters, demonstrating how raw hardware behavior contrasts with Python's abstracted Mersenne Twister algorithm.
 * **Execution Efficiency:** Analyzing how unpredictable random inputs affect branch prediction and cache behavior at the CPU level.
 
-## Tech Stack
-* **Assembly:** 32-bit NASM for Linux
-* **Python:** Python 3
-
 <details>
 <summary>Execution Examples (click to expand)</summary>
 
@@ -38,6 +34,10 @@ Building this program required bridging the gap between high-level abstractions 
 <img height="500" alt="image" src="https://github.com/user-attachments/assets/d7b224c4-a8a3-4965-bd49-0ec26749d710" />
 
 </details>
+
+## Tech Stack
+* **Assembly:** 32-bit NASM for Linux
+* **Python:** Python 3
 
 ## Usage
 ### Running the Assembly Program
