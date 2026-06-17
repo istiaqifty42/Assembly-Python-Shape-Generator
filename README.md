@@ -1,4 +1,4 @@
-# Menu-Driven NASM Assembly & Python Shape Generator
+# NASM Assembly & Python Shape Generator
 
 ## Overview
 This repository contains a comparative project exploring the architectural differences between high-level and low-level programming. The program algorithmically generates five unique geometric shapes (Concentric Square, Hexagon, Hourglass, Diamond, and Heart) on a 2D Cartesian grid using mathematical loops, parameters, and logic-based boundary conditions. 
