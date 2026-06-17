@@ -19,7 +19,7 @@ Building this program required bridging the gap between high-level abstractions 
 
 **Concentric Square** (Randomized Colour)
 
-<img height="500" alt="image" src="https://github.com/user-attachments/assets/ce45ab76-b89c-47f5-bc5a-89539e33d41b" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/93bbad67-c398-47c0-b71a-1e9f115f5355" />
 
 **Hexagon** (Randomized Size)
 
